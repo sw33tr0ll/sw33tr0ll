@@ -1,4 +1,3 @@
-### About Me
+## 🌱 Founder @ https://sugarsecurity.com
 
-- 🌱 Founder @ https://sugarsecurity.com
-- 📫 How to reach me: logan.evans@sugarsecurity.com
+## 📫 How to reach me: logan.evans@sugarsecurity.com
